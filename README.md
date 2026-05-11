@@ -183,7 +183,7 @@ Includes:
 ---
 
 # Power BI Dashboard Link
-https://app.powerbi.com/groups/me/reports/b1d24a63-9a8c-4a13-8246-427c8e6dc76e/aa4fd78667ef443decf9?experience=power-bi
+[View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b1d24a63-9a8c-4a13-8246-427c8e6dc76e/aa4fd78667ef443decf9?experience=power-bi)
 ---
 
 # Repository Structure
@@ -192,7 +192,6 @@ https://app.powerbi.com/groups/me/reports/b1d24a63-9a8c-4a13-8246-427c8e6dc76e/a
 ├── Smartphone_Market_Insights.pbix
 ├── Dashboard.pdf
 ├── EDA.ipynb
-├── smartphone_data/
 └── README.md
 ```
 
@@ -208,7 +207,6 @@ This dashboard simulates a real-world business intelligence solution for smartph
 
 ---
 
-# 👨‍💻 Author
-Yug Trivedi
-
-LinkedIn: https://www.linkedin.com/in/yug-trivedi-7252102b0/ 
+# Author
+## Yug Trivedi
+LinkedIn: [Yug Trivedi](https://www.linkedin.com/in/yug-trivedi-7252102b0/)
